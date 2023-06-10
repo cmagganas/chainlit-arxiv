@@ -99,4 +99,3 @@ def process_response(res):
 
     cl.Message(content=answer, elements=source_elements).send()
 
-
